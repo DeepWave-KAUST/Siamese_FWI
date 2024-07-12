@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "project-name-here"
+authors = [
+    {name = "Full Name", email = "first.lastname@kaust.edu.sa"},
+]
+description = "Short description here"
+readme = "README.md"
+requires-python = ">=3.8"
+keywords = ["inverse problems", "seismic"]
+license = {text = "BSD 3-Clause License"}
+classifiers = [
+        "Intended Audience :: Science/Research",
+        "Natural Language :: English",
+        "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.9",
+        "Topic :: Scientific/Engineering :: Mathematics",
+    ]
+dependencies = [
+//        "numpy >= 1.22.0",
+//        "torch>=1.10.1",
+//        "pylops >= 2.0.0",
+// 	      "setuptools >= 61.2.0",
+    ]
+
+dynamic = ["version"]
+
+[tool.setuptools.packages]
+find = {}
