@@ -3,11 +3,11 @@ requires = ["setuptools", "setuptools-scm"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "project-name-here"
+name = "SiameseFWI"
 authors = [
-    {name = "Full Name", email = "first.lastname@kaust.edu.sa"},
+    {name = "Omar M. Saad", email = "omar.sadaly@kaust.edu.sa"},
 ]
-description = "Short description here"
+description = "SiameseFWI: A deep Learning Model for Full Wave Inversion"
 readme = "README.md"
 requires-python = ">=3.8"
 keywords = ["inverse problems", "seismic"]
