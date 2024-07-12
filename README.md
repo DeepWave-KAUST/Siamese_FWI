@@ -1,8 +1,7 @@
-![LOGO](https://github.com/DeepWave-Kaust/SiameseFWI-dev/blob/main/asset/Fig11.png)
+![LOGO](https://github.com/DeepWave-KAUST/Siamese_FWI/blob/main/asset/Fig11.png)
 
-Reproducible material for **SiameseFWI: A deep Learning Model for Full Wave Inversion - Omar M. Saad and Tariq Alkhalifah**
+Official reproducible material for **SiameseFWI: A Deep Learning Network for Enhanced Full Waveform Inversion - Omar M. Saad, Randy Harsuko, and Tariq Alkhalifah**
 
-[Click here](https://kaust.sharepoint.com/:f:/r/sites/M365_Deepwave_Documents/Shared%20Documents/Restricted%20Area/REPORTS/DW0042?csf=1&web=1&e=eudjzy) to access the Project Report. Authentication to the _Restricted Area_ filespace is required.
 
 # Project structure
 This repository is organized as follows:
@@ -38,5 +37,5 @@ conda activate FWIGAN
 configurations may be required for different combinations of workstation and GPU.
 
 ## Cite us 
-DW0042 - Omar M. Saad and Tariq Alkhalifah (2024) SiameseFWI: A deep Learning Model for Full Wave Inversion.
+Omar M. Saad, Randy Harsuko, and Tariq Alkhalifah (2024) SiameseFWI: A Deep Learning Network for Enhanced Full Waveform Inversion, http://dx.doi.org/10.1029/2024JH000227.
 
