@@ -20,8 +20,8 @@ The following notebooks are provided:
 
 
 ## Getting started :space_invader: :robot:
-To ensure the reproducibility of the results, we suggest using the `FWIGAN.yml` file when creating an environment.
-Please install deepwave 0.0.8 version, which is used in this project.
+- To ensure the reproducibility of the results, we suggest using the `FWIGAN.yml` file when creating an environment.
+- Please install deepwave 0.0.8 version, which is used in this project.
 
 
 Run:
