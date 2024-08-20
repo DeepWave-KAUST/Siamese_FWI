@@ -39,5 +39,15 @@ conda activate FWIGAN
 configurations may be required for different combinations of workstation and GPU.
 
 ## Cite us 
-Omar M. Saad, Randy Harsuko, and Tariq Alkhalifah (2024) SiameseFWI: A Deep Learning Network for Enhanced Full Waveform Inversion, http://dx.doi.org/10.1029/2024JH000227.
-
+```bibtex
+@article{saad2024siamesefwi,
+  title={SiameseFWI: A deep learning network for enhanced full waveform inversion},
+  author={Saad, Omar M and Harsuko, Randy and Alkhalifah, Tariq},
+  journal={Journal of Geophysical Research: Machine Learning and Computation},
+  volume={1},
+  number={3},
+  pages={e2024JH000227},
+  year={2024},
+  doi={https://doi.org/10.1029/2024JH000227},
+  publisher={Wiley Online Library}
+}
