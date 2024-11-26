@@ -17,6 +17,7 @@ The following notebooks are provided:
 
 - :orange_book: ``SiameseFWI_Marmousi.ipynb``: the main notebook performing the SiameseFWI for Marmousi model;
 - :orange_book: ``SiameseFWI_overethrust.ipynb``: the main notebook performing the SiameseFWI for overthrust model;
+- :orange_book: ``SiameseFWI_bad_initial_Overthurst.ipynb``: the main notebook performing the SiameseFWI for overthrust model; bad initial model;
 
 
 ## Getting started :space_invader: :robot:
